@@ -21,7 +21,7 @@ If you are using the code download from the link, please note the change at line
 
 pyimagesearch
 
-video
+videos
 
 people_counter.py
 
