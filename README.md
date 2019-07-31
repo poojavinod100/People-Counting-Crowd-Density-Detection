@@ -17,10 +17,13 @@ You can see how the output looks here:https://drive.google.com/file/d/1xB9FA0hkU
 
 If you are using the code download from the link, please note the change at line 160 to prevent Boost Error, concerning type mismatch. (See comments beneath the tutorial)(people_counter.py in this repo has the edited code)
 
-*Related files and folders:
+*Related files and folders:*
 
 pyimagesearch
+
 video
+
 people_counter.py
-mobilenet_ssd*
+
+mobilenet_ssd
 
