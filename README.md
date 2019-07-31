@@ -1,11 +1,6 @@
 # People-Counting-Crowd-Density-Detection
 This is a project at #sg_wonder_vision study group of the Facebook Secure and Private AI Scholarship Challenge 2019
-
-**Collaborators:**
-
--Pooja Vinod
-
--Sreekanth Zipsy
+__________________________________________________________________________________________________________________________________________
 
 **Project Updates:**
 
