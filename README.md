@@ -13,4 +13,6 @@ This is a project at #sg_wonder_vision study group of the Facebook Secure and Pr
 
 Tutorial followed: https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
+You can see how the output looks here:https://drive.google.com/file/d/1xB9FA0hkU-ns3o5Zs4uCwAwZOY8uCWvA/view
+
 If you are using the code download from the link, please note the change at line 160 to prevent Boost Error, concerning type mismatch. (See comments beneath the tutorial)(people_counter.py in this repo has the edited code)
