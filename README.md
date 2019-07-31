@@ -3,9 +3,11 @@ This is a project at #sg_wonder_vision study group of the Facebook Secure and Pr
 
 **Collaborators:**
 
-Pooja Vinod
+-Pooja Vinod
 
-Sreekanth Zipsy
+-Sreekanth Zipsy
+
+**Project Updates:**
 
 31/7/19 :Pooja: Completed implementation of a people counter to be used at doors of exhibitions/public events to count the net number of  visitors, inflow and outflow of people from a specific event. Can be used to determine the most popular choice of events/performances/talks at concerts/festivals where multiple events happen simultaneously. 
 
