@@ -22,6 +22,8 @@ people_counter.py
 
 mobilenet_ssd
 
+-**02/08/19 :Pooja:** Interest form for the Project Showcase Challenge submitted. 
+
 -**03/08/19 :Sreekanth:** Completed implementation of crowd counting and tracking using deepsort and YOLO. Recommendation for improvement required in FPS noted(current rate:8-10 FPS). 
 
 Pull request for code merged in the 'Contributions' folder.
