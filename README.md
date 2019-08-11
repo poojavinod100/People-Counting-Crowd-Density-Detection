@@ -32,4 +32,8 @@ Code reference used: https://github.com/Qidian213/deep_sort_yolov3
 
 You can see how the output looks here:https://drive.google.com/open?id=1OjMPyFHW1clsGjpRtQxiXLQhxIox3d6r
 
+-**06/08/19 :Pooja:** Project board with tasks created on the GitHub repo. 
+
+-**09/08/19 :Pooja:** Tasks assigned to all team members. See Project Board for tasks in progress. 
+
 View the slack posts on #sg_wonder_vision related to this project here: https://docs.google.com/document/d/1U-sp_a3jg-xSMCdwziBvDC6xdWLUsFe1TPLIE-EqCzU/edit?usp=sharing
