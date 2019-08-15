@@ -34,8 +34,14 @@ Code reference used: https://github.com/Qidian213/deep_sort_yolov3
 
 -**09/08/19 :Pooja:** Tasks assigned to all team members. See Project Board for tasks in progress. 
 
+-**13/08/19 :Pooja:** Review #1 of research article by Ramkrishna Acharya done. Feedback given. 
+
 -**14/08/19 :Pooja:** Work on website for project work consolidation started.
 
--**15/08/19 :Pooja:** C3 framework explored and link to repo included in 'Contributions' folder. 
+-**15/08/19 :Pooja:** Work on website for project work consolidation almost complete. Requirements from team members communicated. 
+
+-**15/08/19 :Pooja:** C3 framework explored and link to repo included in 'Contributions' folder. At destination repo, please visit results_reports folder  for details of results obtained.  
+
+-**15/08/19 :Pooja:** Review #2 of research article by Ramkrishna Acharya complete. Edits made and article recommended for submission to SPAIC Medium Publication. 
 
 View the slack posts on #sg_wonder_vision related to this project here: https://docs.google.com/document/d/1U-sp_a3jg-xSMCdwziBvDC6xdWLUsFe1TPLIE-EqCzU/edit?usp=sharing
