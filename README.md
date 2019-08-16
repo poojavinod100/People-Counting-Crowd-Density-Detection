@@ -1,8 +1,22 @@
 # People-Counting-Crowd-Density-Detection
 This is a project at #sg_wonder_vision study group of the Facebook Secure and Private AI Scholarship Challenge 2019
-__________________________________________________________________________________________________________________________________________
 
-**Project Updates:**
+**Project Description:**
+****************************************************************************************************************************************
+-The main objective of this project is to build a self-sufficient software, that can accurately predict whether or not a stampede is imminent, based on the incoming live visuals of a place. 
+-Often, huge footfall is associated with various popular festivals, religious ceremonies, public events, concerts etc. The enormous count of people coupled with their density(how close they are to each other) easily poses the risk of a normal crowd turning into a dangerous stampede that could potentially cost many lives. 
+-This has happened several times in the past, especially at the world-famous Kumbh Mela(a festival where 30 million people take part in Allahabad, when the city can only hold about 9 million), and the recent tragedy at Elphinstone Railway station, Mumbai. 
+-Most current stampede prevention solutions are reliant on hardware(footfall mats based on sensors etc), bringing along with it the question of capital investment, installation and maintenance costs and issues in the long run. 
+-The key innovation we hope to create here is steer this project in the direction of a **completely software-based solution(based on Computer Vision Technology, that does not depend on inputs from any electronic hardware, which can be done using only the live CCTV visuals of the area we are monitoring)** for this problem, that can provide good levels of accuracy to accurately predict stampedes, so that some kind of intervention can be done at the right time to prevent such incidents in the future.
+****************************************************************************************************************************************
+________________________________________________________________________________________________________________________________________
+**Team Members(Slack Handles):**
+@Pooja Vinod(Project Lead)
+@Sreekanth Zipsy
+@Viper
+@Suraiya Khan
+________________________________________________________________________________________________________________________________________
+**Project Progress Updates:**
 
 -**31/7/19 :Pooja:** Completed implementation of a people counter to be used at doors of exhibitions/public events to count the net number of  visitors, inflow and outflow of people from a specific event. Can be used to determine the most popular choice of events/performances/talks at concerts/festivals where multiple events happen simultaneously. This implementation uses OpenCV, dlib and MobileNet SSD. Output rate:34 FPS
 
