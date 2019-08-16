@@ -1,6 +1,8 @@
 # People-Counting-Crowd-Density-Detection
+
 This is a project at #sg_wonder_vision study group of the Facebook Secure and Private AI Scholarship Challenge 2019
 
+****************************************************************************************************************************************
 **Project Description:**
 ****************************************************************************************************************************************
 -The main objective of this project is to build a self-sufficient software, that can accurately predict whether or not a stampede is imminent, based on the incoming live visuals of a place. 
@@ -23,6 +25,8 @@ ________________________________________________________________________________
 @Viper
 
 @Suraiya Khan
+
+****************************************************************************************************************************************
 ________________________________________________________________________________________________________________________________________
 **Project Progress Updates:**
 
@@ -65,5 +69,9 @@ Code reference used: https://github.com/Qidian213/deep_sort_yolov3
 -**15/08/19 :Pooja:** C3 framework explored and link to repo included in 'Contributions' folder. At destination repo, please visit results_reports folder  for details of results obtained.  
 
 -**15/08/19 :Pooja:** Review #2 of research article by Ramkrishna Acharya complete. Edits made and article recommended for submission to SPAIC Medium Publication. 
+
+________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
+**Documentation:**
 
 View the slack posts on #sg_wonder_vision related to this project here: https://docs.google.com/document/d/1U-sp_a3jg-xSMCdwziBvDC6xdWLUsFe1TPLIE-EqCzU/edit?usp=sharing
