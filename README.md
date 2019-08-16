@@ -52,7 +52,7 @@ mobilenet_ssd
 
 -**03/08/19 :Sreekanth:** Completed implementation of crowd counting and tracking using deepsort and YOLO. Recommendation for improvement required in FPS noted(current rate:8-10 FPS). 
 
-Pull request for code merged in the 'Contributions' folder.
+Pull request for code merged by Pooja into the 'Contributions' folder.
 
 Code reference used: https://github.com/Qidian213/deep_sort_yolov3 
 
@@ -69,6 +69,10 @@ Code reference used: https://github.com/Qidian213/deep_sort_yolov3
 -**15/08/19 :Pooja:** C3 framework explored and link to repo included in 'Contributions' folder. At destination repo, please visit results_reports folder  for details of results obtained.  
 
 -**15/08/19 :Pooja:** Review #2 of research article by Ramkrishna Acharya complete. Edits made and article recommended for submission to SPAIC Medium Publication. 
+
+-**16/08/19 :Sreekanth:** Completed implementation of crowd counting on images using CSRnet model. Trials on videos done. 
+
+Pull request for code merged by Pooja into the 'Contributions' folder.
 
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
