@@ -208,7 +208,7 @@ Pull request for code merged by Pooja into the 'Contributions' folder.
 -**17/08/19 :Sreekanth:** Published Medium article on crowd counting implementation with DeepSort and YOLO: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
 ________________________________________________________________________________________________________________________________________
-## Documentation:
+## Slack Communication Archive for this project:
 _________________________________________________________________________________________________________________________________
 
 View the slack posts on #sg_wonder_vision related to this project here: https://docs.google.com/document/d/1U-sp_a3jg-xSMCdwziBvDC6xdWLUsFe1TPLIE-EqCzU/edit?usp=sharing
