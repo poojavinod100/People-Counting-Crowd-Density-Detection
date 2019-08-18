@@ -108,6 +108,8 @@ mobilenet_ssd
 
 -Generates Gaussian Density Maps from images, detects and count crowds. 
 
+-Reduces human cost in training
+
 -See code: Link to repo included in 'Contributions' folder. 
 
 -See output: At destination repo, please visit results_reports folder  for details of results obtained.
