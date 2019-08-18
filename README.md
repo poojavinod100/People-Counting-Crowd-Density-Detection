@@ -115,7 +115,8 @@ mobilenet_ssd
 -See SPAIC Medium blog written about implementation, by Pooja Vinod:
 
 ________________________________________________________________________________________________________________________________________
-## RESEARCH AND BLOG(All below research-based articles have been published on the SPAIC Medium Publication)
+## RESEARCH AND BLOG
+(All below research-based articles have been published on the SPAIC Medium Publication)
 ________________________________________________________________________________________________________________________________________
 
 ## 1. Topic: The Wide Array of Use Cases where Crowd Density Detection can prove useful 
@@ -163,7 +164,7 @@ Read here:
 ________________________________________________________________________________________________________________________________________
 See our project board of tasks, used to organize the project work and divide tasks among members:
 ____________________________________________________________________________________________________________________________________
-**PROJECT TIMELINE AND PROGRESS UPDATES:**
+## PROJECT TIMELINE AND PROGRESS UPDATES:
 ___________________________________________________________________________________________________________________
 
 -**31/7/19 :Pooja:** Completed implementation of a people counter to be used at doors of exhibitions/public events to detect,count and track the net number of  visitors, inflow and outflow of people from a specific event. Can be used to determine the most popular choice of events/performances/talks at concerts/festivals where multiple events happen simultaneously. This implementation uses OpenCV, dlib and MobileNet SSD. Output rate:34 FPS
@@ -207,7 +208,7 @@ Pull request for code merged by Pooja into the 'Contributions' folder.
 -**17/08/19 :Sreekanth:** Published Medium article on crowd counting implementation with DeepSort and YOLO: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
 ________________________________________________________________________________________________________________________________________
-________________________________________________________________________________________________________________________________________
-**Documentation:**
+## Documentation:
+_________________________________________________________________________________________________________________________________
 
 View the slack posts on #sg_wonder_vision related to this project here: https://docs.google.com/document/d/1U-sp_a3jg-xSMCdwziBvDC6xdWLUsFe1TPLIE-EqCzU/edit?usp=sharing
