@@ -50,9 +50,9 @@ ________________________________________________________________________________
 
 -Output rate: 34 FPS
 
--See output here: https://drive.google.com/open?id=1xB9FA0hkU-ns3o5Zs4uCwAwZOY8uCWvA
+-**See output here**: https://drive.google.com/open?id=1xB9FA0hkU-ns3o5Zs4uCwAwZOY8uCWvA
 
--See code in our repo:
+-**See code in our repo**:
 
 **_Related files and folders:_*
 
