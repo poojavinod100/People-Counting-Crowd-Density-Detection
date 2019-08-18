@@ -3,7 +3,7 @@
 This is a project at #sg_wonder_vision study group of the Facebook Secure and Private AI Scholarship Challenge 2019
 
 ****************************************************************************************************************************************
-## PROJECT DESCRIPTION:
+## PROJECT OBJECTIVE AND DESCRIPTION:
 ****************************************************************************************************************************************
 -The main objective of this project is to build a self-sufficient software, that can accurately predict whether or not a stampede is imminent, based on the incoming live visuals of a place. 
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________
 
-**_See the exclusive website we created for this project showcase:_**
+**_See the exclusive website we have created for this project showcase:_**
 
 ****************************************************************************************************************************************
 ## SUCCESSFUL IMPLEMENTATIONS:
