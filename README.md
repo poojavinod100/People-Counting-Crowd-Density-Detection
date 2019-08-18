@@ -79,7 +79,7 @@ mobilenet_ssd
 
 -Output rate: 10 FPS
 
--**See output here**:https://drive.google.com/open?id=1h-XJTDbw_h-v3iaAf_z-1HXVkojOhRNL
+-**See output here**: https://drive.google.com/open?id=1h-XJTDbw_h-v3iaAf_z-1HXVkojOhRNL
 
 -**See code in our repo**: See 'Crowd Counting & Tracking with Deep Sort & Yolo @ Sreekanth Zipsy' folder in 'Contributions' 
 
