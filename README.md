@@ -34,7 +34,7 @@ ________________________________________________________________________________
 ## SUCCESSFUL IMPLEMENTATIONS:
 ****************************************************************************************************************************************
 
-1. **Visitor Counter for Events from overhead live visuals:**
+## 1. Visitor Counter for Events from overhead live visuals:
 
 -Achieved using **OpenCV,Numpy,dlib,imutils and MobileNet-SSD model.**
 
@@ -66,7 +66,7 @@ mobilenet_ssd
 
 -See SPAIC Medium blog written about implementation, by Pooja Vinod:
 
-2. **People Counter for Public Places(using to get live statics counts) from face-level visuals:**
+## 2. People Counter for Public Places(using to get live statics counts) from face-level visuals:
 
 -Achieved using **DeepSort Algorithm, NumPy, sklean, OpenCV, Pillow and YOLOv3.**
 
@@ -84,7 +84,7 @@ mobilenet_ssd
 
 -See SPAIC Medium blog written about implementation, by Sreekanth Zipsy:https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
-3. **CSRnet implementation on ShanghaiTech Dataset: Generating crowd counts from images-**
+## 3. CSRnet implementation on ShanghaiTech Dataset: Generating crowd counts from images-
 
 -Achieved using **PyTorch, CUDA and CSRnet model on ShanghaiTech dataset.**
 
@@ -104,7 +104,7 @@ mobilenet_ssd
 
 -See SPAIC Medium blog written about implementation, by Sreekanth Zipsy:
 
-4. **C3(Crowd Counting Code) Framework implementation on ShanghaiTech Dataset: Open Source Crowd Counting Framework using PyTorch**
+## 4. C3(Crowd Counting Code) Framework implementation on ShanghaiTech Dataset: Open Source Crowd Counting Framework using PyTorch
 
 -Generates Gaussian Density Maps from images, detects and count crowds. 
 
@@ -118,43 +118,43 @@ ________________________________________________________________________________
 ## RESEARCH AND BLOG(All below research-based articles have been published on the SPAIC Medium Publication)
 ________________________________________________________________________________________________________________________________________
 
-1. Topic: The Wide Array of Use Cases where Crowd Density Detection can prove useful 
+## 1. Topic: The Wide Array of Use Cases where Crowd Density Detection can prove useful 
 
 Author: Suraiya Khan
 
 Read here:
 
-2. Topic: Exploring The Most Widely Used Datasets for Crowd Density Detection
+## 2. Topic: Exploring The Most Widely Used Datasets for Crowd Density Detection
 
 Author: Ramkrishna Acharya
 
 Read here: https://medium.com/@qrka/crowd-counting-made-easy-1bf84f18ff61
 
-3. Topic: Summarizing The Crowd Density Project
+## 3. Topic: Summarizing The Crowd Density Project
 
 Author: Pooja Vinod
 
 Read here:
 
-4. Topic: Crowd Counting with DeepSort and YOLO
+## 4. Topic: Crowd Counting with DeepSort and YOLO
 
 Author: Sreekanth Zipsy
 
 Read here: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
-5. Topic: Crowd Counting on images with CSRnet
+## 5. Topic: Crowd Counting on images with CSRnet
 
 Author: Sreekanth Zipsy
 
 Read here:
 
-6.Topic: Creating a net crowd counter with OpenCV and MobileNetSSD
+## 6.Topic: Creating a net crowd counter with OpenCV and MobileNetSSD
 
 Author: Pooja Vinod
 
 Read here:
 
-7.Topic: The C3 Framework: An open source Crowd-Counting-Code framework
+## 7.Topic: The C3 Framework: An open source Crowd-Counting-Code framework
 
 Author: Pooja Vinod
 
