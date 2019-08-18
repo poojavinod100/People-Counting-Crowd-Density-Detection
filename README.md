@@ -162,7 +162,9 @@ Author: Pooja Vinod
 Read here:
 
 ________________________________________________________________________________________________________________________________________
-See our project board of tasks, used to organize the project work and divide tasks among members:
+
+**_See our project board of tasks, used to organize the project work and divide tasks among members:_**
+https://github.com/poojavinod100/People-Counting-Crowd-Density-Detection/projects/1
 ____________________________________________________________________________________________________________________________________
 ## PROJECT TIMELINE AND PROGRESS UPDATES:
 ___________________________________________________________________________________________________________________
