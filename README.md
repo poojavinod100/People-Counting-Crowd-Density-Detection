@@ -1,4 +1,4 @@
-# People-Counting-Crowd-Density-Detection
+# The Crowd Density Project 
 
 This is a project at #sg_wonder_vision study group of the Facebook Secure and Private AI Scholarship Challenge 2019
 
