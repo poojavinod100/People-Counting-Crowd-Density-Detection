@@ -28,7 +28,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________
 
-**_See the exclusive website we have created for this project showcase:_**
+**_See the exclusive website we have created for this project showcase
+(Make sure to go through all the sections, and please read the 'Concluding Notes' section to read about our thoughts on the future of this project):_**
 
 ****************************************************************************************************************************************
 ## SUCCESSFUL IMPLEMENTATIONS:
