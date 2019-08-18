@@ -3,7 +3,7 @@
 This is a project at #sg_wonder_vision study group of the Facebook Secure and Private AI Scholarship Challenge 2019
 
 ****************************************************************************************************************************************
-**PROJECT DESCRIPTION:**
+## PROJECT DESCRIPTION:
 ****************************************************************************************************************************************
 -The main objective of this project is to build a self-sufficient software, that can accurately predict whether or not a stampede is imminent, based on the incoming live visuals of a place. 
 
@@ -15,8 +15,8 @@ This is a project at #sg_wonder_vision study group of the Facebook Secure and Pr
 
 -The key innovation we hope to create here is steer this project in the direction of a **completely software-based solution(based on Computer Vision Technology, that does not depend on inputs from any electronic hardware, which can be done using only the live CCTV visuals of the area we are monitoring)** for this problem, that can provide good levels of accuracy to accurately predict stampedes, so that some kind of intervention can be done at the right time to prevent such incidents in the future.
 ****************************************************************************************************************************************
+## Team Members(Slack Handles):
 ________________________________________________________________________________________________________________________________________
-**Team Members(Slack Handles):**
 
 @Pooja Vinod(Project Lead)
 
@@ -26,9 +26,14 @@ ________________________________________________________________________________
 
 @Suraiya Khan
 
+________________________________________________________________________________________________________________________________________
+
+**_See the exclusive website we created for this project showcase:_**
+
 ****************************************************************************************************************************************
+## SUCCESSFUL IMPLEMENTATIONS:
 ****************************************************************************************************************************************
-**SUCCESSFUL IMPLEMENTATIONS:**
+
 1. **Visitor Counter for Events from overhead live visuals:**
 
 -Achieved using **OpenCV,Numpy,dlib,imutils and MobileNet-SSD model.**
@@ -59,7 +64,7 @@ people_counter.py
 
 mobilenet_ssd
 
--See blog written about implementation, by Pooja Vinod:
+-See SPAIC Medium blog written about implementation, by Pooja Vinod:
 
 2. **People Counter for Public Places(using to get live statics counts) from face-level visuals:**
 
@@ -77,7 +82,7 @@ mobilenet_ssd
 
 -See code in our repo:
 
--See blog written about implementation, by Sreekanth Zipsy:https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
+-See SPAIC Medium blog written about implementation, by Sreekanth Zipsy:https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
 3. **CSRnet implementation on ShanghaiTech Dataset: Generating crowd counts from images-**
 
@@ -97,7 +102,7 @@ mobilenet_ssd
 
 -See code in our repo:
 
--See blog written about implementation, by Sreekanth Zipsy:
+-See SPAIC Medium blog written about implementation, by Sreekanth Zipsy:
 
 4. **C3(Crowd Counting Code) Framework implementation on ShanghaiTech Dataset: Open Source Crowd Counting Framework using PyTorch**
 
@@ -107,10 +112,59 @@ mobilenet_ssd
 
 -See output: At destination repo, please visit results_reports folder  for details of results obtained.
 
--See blog written about implementation, by Pooja Vinod:
+-See SPAIC Medium blog written about implementation, by Pooja Vinod:
 
 ________________________________________________________________________________________________________________________________________
+## RESEARCH AND BLOG(All below research-based articles have been published on the SPAIC Medium Publication)
+________________________________________________________________________________________________________________________________________
+
+1. Topic: The Wide Array of Use Cases where Crowd Density Detection can prove useful 
+
+Author: Suraiya Khan
+
+Read here:
+
+2. Topic: Exploring The Most Widely Used Datasets for Crowd Density Detection
+
+Author: Ramkrishna Acharya
+
+Read here: https://medium.com/@qrka/crowd-counting-made-easy-1bf84f18ff61
+
+3. Topic: Summarizing The Crowd Density Project
+
+Author: Pooja Vinod
+
+Read here:
+
+4. Topic: Crowd Counting with DeepSort and YOLO
+
+Author: Sreekanth Zipsy
+
+Read here: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
+
+5. Topic: Crowd Counting on images with CSRnet
+
+Author: Sreekanth Zipsy
+
+Read here:
+
+6.Topic: Creating a net crowd counter with OpenCV and MobileNetSSD
+
+Author: Pooja Vinod
+
+Read here:
+
+7.Topic: The C3 Framework: An open source Crowd-Counting-Code framework
+
+Author: Pooja Vinod
+
+Read here:
+
+________________________________________________________________________________________________________________________________________
+See our project board of tasks, used to organize the project work and divide tasks among members:
+____________________________________________________________________________________________________________________________________
 **PROJECT TIMELINE AND PROGRESS UPDATES:**
+___________________________________________________________________________________________________________________
 
 -**31/7/19 :Pooja:** Completed implementation of a people counter to be used at doors of exhibitions/public events to detect,count and track the net number of  visitors, inflow and outflow of people from a specific event. Can be used to determine the most popular choice of events/performances/talks at concerts/festivals where multiple events happen simultaneously. This implementation uses OpenCV, dlib and MobileNet SSD. Output rate:34 FPS
 
@@ -147,6 +201,10 @@ You can see how the output looks here: https://drive.google.com/open?id=1h-XJTDb
 -**16/08/19 :Sreekanth:** Completed implementation of crowd counting on images using CSRnet model. Trials on videos done. 
 
 Pull request for code merged by Pooja into the 'Contributions' folder.
+
+-**17/08/19 :Ramkrishna:** Published Medium article on a research-based comprehensive study of Crowd Counting, specifically on the most popular datasets used: https://medium.com/@qrka/crowd-counting-made-easy-1bf84f18ff61
+
+-**17/08/19 :Sreekanth:** Published Medium article on crowd counting implementation with DeepSort and YOLO: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
