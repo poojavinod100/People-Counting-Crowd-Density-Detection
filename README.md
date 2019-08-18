@@ -48,13 +48,13 @@ ________________________________________________________________________________
 
 -Apart from this, this kind of information coming from multiple cameras recording visuals of multiple areas of a venue, could be used to improve the crowd counting model to make accurate predictions about future crowd counts(and thus take precautionary measures), through **Federated Learning**.
 
--Output rate:34 FPS
+-Output rate: 34 FPS
 
 -See output here: https://drive.google.com/open?id=1xB9FA0hkU-ns3o5Zs4uCwAwZOY8uCWvA
 
 -See code in our repo:
 
-*Related files and folders:*
+**_Related files and folders:_*
 
 pyimagesearch
 
@@ -64,7 +64,7 @@ people_counter.py
 
 mobilenet_ssd
 
--See SPAIC Medium blog written about implementation, by Pooja Vinod:
+-**See SPAIC Medium blog written about implementation, by Pooja Vinod**:
 
 ## 2. People Counter for Public Places(using to get live statics counts) from face-level visuals:
 
@@ -78,11 +78,11 @@ mobilenet_ssd
 
 -Output rate: 10 FPS
 
--See output here:https://drive.google.com/open?id=1h-XJTDbw_h-v3iaAf_z-1HXVkojOhRNL
+-**See output here**:https://drive.google.com/open?id=1h-XJTDbw_h-v3iaAf_z-1HXVkojOhRNL
 
--See code in our repo:
+-**See code in our repo**: See 'Crowd Counting & Tracking with Deep Sort & Yolo @ Sreekanth Zipsy' folder in 'Contributions' 
 
--See SPAIC Medium blog written about implementation, by Sreekanth Zipsy:https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
+-**See SPAIC Medium blog written about implementation, by Sreekanth Zipsy**:https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
 ## 3. CSRnet implementation on ShanghaiTech Dataset: Generating crowd counts from images-
 
@@ -98,11 +98,11 @@ mobilenet_ssd
 
 -Would have comparively much less data storage requirements as images are being used, not space-consuming video archives. 
 
--See output here:https://drive.google.com/open?id=1h-XJTDbw_h-v3iaAf_z-1HXVkojOhRNL
+-**See output here**:https://drive.google.com/open?id=1h-XJTDbw_h-v3iaAf_z-1HXVkojOhRNL
 
--See code in our repo:
+-**See code in our repo**: See 'CSRNet @ Sreekanth Zipsy' folder in 'Contributions'
 
--See SPAIC Medium blog written about implementation, by Sreekanth Zipsy:
+-**See SPAIC Medium blog written about implementation, by Sreekanth Zipsy**:
 
 ## 4. C3(Crowd Counting Code) Framework implementation on ShanghaiTech Dataset: Open Source Crowd Counting Framework using PyTorch
 
@@ -110,11 +110,11 @@ mobilenet_ssd
 
 -Reduces human cost in training
 
--See code: Link to repo included in 'Contributions' folder. 
+-**See code**: Link to repo included in 'Contributions' folder. 
 
--See output: At destination repo, please visit results_reports folder  for details of results obtained.
+-**See output**: At destination repo, please visit results_reports folder  for details of results obtained.
 
--See SPAIC Medium blog written about implementation, by Pooja Vinod:
+-**See SPAIC Medium blog written about implementation, by Pooja Vinod**:
 
 ________________________________________________________________________________________________________________________________________
 ## RESEARCH AND BLOG
