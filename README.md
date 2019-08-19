@@ -212,7 +212,7 @@ Pull request for code merged by Pooja into the 'Contributions' folder.
 
 -**17/08/19 :Sreekanth:** Published Medium article on crowd counting implementation with DeepSort and YOLO: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
--**19/08/19 :Suraiya:** Published research-based Medium article about the wide diversity of use cases that Crowd Counting can be applied to: https://medium.com/@suraiya.vic/crowd-counting-approaches-use-cases-and-importance-part-1-ad9c3cb12f13
+-**19/08/19 :Suraiya:** Published research-based Medium article about the wide diversity of use cases that Crowd Counting can be applied to: https://medium.com/secure-and-private-ai-writing-challenge/crowd-counting-approaches-use-cases-and-importance-part-1-ad9c3cb12f13
 
 -**19/08/19 :Sreekanth:** Published Medium article on implementing crowd counting with CSRnet: https://medium.com/@sreekanthj244/implementation-of-csrnet-crowd-counting-project-for-udacity-project-showcase-a451b4397d71
 
