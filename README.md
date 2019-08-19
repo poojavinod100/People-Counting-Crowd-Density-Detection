@@ -65,7 +65,7 @@ people_counter.py
 
 mobilenet_ssd
 
--**See SPAIC Medium blog written about implementation, by Pooja Vinod**:
+-**See SPAIC Medium blog written about implementation, by Pooja Vinod**: https://medium.com/secure-and-private-ai-writing-challenge/creating-a-direction-sensitive-people-counter-with-opencv-and-mobilenetssd-454627fe3c84
 
 ## 2. People Counter for Public Places(using to get live statics counts) from face-level visuals:
 
@@ -83,7 +83,7 @@ mobilenet_ssd
 
 -**See code in our repo**: See 'Crowd Counting & Tracking with Deep Sort & Yolo @ Sreekanth Zipsy' folder in 'Contributions' 
 
--**See SPAIC Medium blog written about implementation, by Sreekanth Zipsy**:https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
+-**See SPAIC Medium blog written about implementation, by Sreekanth Zipsy**: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
 
 ## 3. CSRnet implementation on ShanghaiTech Dataset: Generating crowd counts from images-
 
@@ -115,7 +115,7 @@ mobilenet_ssd
 
 -**See output**: At destination repo, please visit results_reports folder  for details of results obtained.
 
--**See SPAIC Medium blog written about implementation, by Pooja Vinod**:
+-**See SPAIC Medium blog written about implementation, by Pooja Vinod**: https://medium.com/secure-and-private-ai-writing-challenge/c3-crowd-counting-code-an-open-source-crowd-counting-framework-in-pytorch-b0a8b94036ba
 
 ________________________________________________________________________________________________________________________________________
 ## RESEARCH AND BLOG
@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
 Author: Suraiya Khan
 
-Read here:
+Read here: https://medium.com/@suraiya.vic/crowd-counting-approaches-use-cases-and-importance-part-1-ad9c3cb12f13
 
 ## 2. Topic: Exploring The Most Widely Used Datasets for Crowd Density Detection
 
@@ -138,7 +138,7 @@ Read here: https://medium.com/@qrka/crowd-counting-made-easy-1bf84f18ff61
 
 Author: Pooja Vinod
 
-Read here:
+Read here: https://medium.com/secure-and-private-ai-writing-challenge/concluding-notes-the-crowd-density-project-df22af5b3f6f
 
 ## 4. Topic: Crowd Counting with DeepSort and YOLO
 
@@ -150,19 +150,19 @@ Read here: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-
 
 Author: Sreekanth Zipsy
 
-Read here:
+Read here: https://medium.com/@sreekanthj244/implementation-of-csrnet-crowd-counting-project-for-udacity-project-showcase-a451b4397d71
 
 ## 6.Topic: Creating a net crowd counter with OpenCV and MobileNetSSD
 
 Author: Pooja Vinod
 
-Read here:
+Read here: https://medium.com/secure-and-private-ai-writing-challenge/creating-a-direction-sensitive-people-counter-with-opencv-and-mobilenetssd-454627fe3c84
 
 ## 7.Topic: The C3 Framework: An open source Crowd-Counting-Code framework
 
 Author: Pooja Vinod
 
-Read here:
+Read here: https://medium.com/secure-and-private-ai-writing-challenge/c3-crowd-counting-code-an-open-source-crowd-counting-framework-in-pytorch-b0a8b94036ba
 
 ________________________________________________________________________________________________________________________________________
 
@@ -211,6 +211,8 @@ Pull request for code merged by Pooja into the 'Contributions' folder.
 -**17/08/19 :Ramkrishna:** Published Medium article on a research-based comprehensive study of Crowd Counting, specifically on the most popular datasets used: https://medium.com/@qrka/crowd-counting-made-easy-1bf84f18ff61
 
 -**17/08/19 :Sreekanth:** Published Medium article on crowd counting implementation with DeepSort and YOLO: https://medium.com/@sreekanthj244/udacitys-secure-private-ai-project-showcase-challenge-i-de38729ca530
+
+-**19/08/19 :Suraiya:** Published Medium 
 
 ________________________________________________________________________________________________________________________________________
 ## Slack Communication Archive for this project:
