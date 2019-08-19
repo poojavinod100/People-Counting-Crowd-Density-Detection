@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
 Author: Suraiya Khan
 
-Read here: https://medium.com/@suraiya.vic/crowd-counting-approaches-use-cases-and-importance-part-1-ad9c3cb12f13
+Read here:  https://medium.com/secure-and-private-ai-writing-challenge/crowd-counting-approaches-use-cases-and-importance-part-1-ad9c3cb12f13  
 
 ## 2. Topic: Exploring The Most Widely Used Datasets for Crowd Density Detection
 
